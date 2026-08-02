@@ -1,0 +1,24 @@
+fruits={"apple","banana","cherry"}
+fruits.remove("banana")
+print(fruits)
+#################################################################333
+thisdict={
+ "brno":{"ford","tata"},
+ "model":"mustang",
+ "year":1964
+}
+print(thisdict)
+########################################################################
+student={
+ "name":{"ram","shyam"},
+ "rno":{3,4},
+ "stream":{"bca","bba"}
+}
+print(student)
+#########################################################################
+thisdict={
+ "name":{"ford","fdg"},
+ "rno":{3,4},
+ "stream":{"bca","bba"}
+}
+print(thisdict)
